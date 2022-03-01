@@ -1,6 +1,14 @@
-title: Minimal theme
+title: <p align='center'>Sailesh Bathala</p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description: <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/sailesh-bathala-9427969b//">LinkedIn</a> |
+  <a href="https://github.com/saibat">GitHub</a>
+  
+  <br>   
+  I'm working as a Front End UI Developer. Currenlty getting trained on Data Science, Big Data, Spark, Machine learning & NLP related problems.
+  Worked with Accenture as a Senior UI developer for Travelers and Aon Clients for 4 years.
+  Working in Legato Health Technologies as a Senior UI Developer for 2 years.
+  <br>
+  </p>
 theme: jekyll-theme-minimal
